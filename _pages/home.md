@@ -1,7 +1,7 @@
 ---
 title: "Sai Zhang - Home"
 layout: homelay
-excerpt: "Sai Zhang at Stanford University."
+excerpt: "Home"
 sitemap: false
 permalink: /
 ---
