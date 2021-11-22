@@ -1,6 +1,6 @@
 ---
 title: "Sai Zhang - People"
-layout: gridlay
+layout: textlay
 excerpt: "People"
 sitemap: false
 permalink: /team/
