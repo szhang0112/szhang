@@ -11,7 +11,7 @@ email: zhangsai@stanford.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of Sai Zhang.
 baseurl: "/szhang"
-url: "szhang0112.github.io"
+url: ""
 
 include:
   - .htaccess
