@@ -14,9 +14,9 @@ permalink: /publications/
 
 <ul>
 {% for publi in site.data.recentpub %}
-<li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>.
-[PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ publi.pmid }}">{{ publi.pmid }}</a>]
-[<a href="https://badge.dimensions.ai/details/pmid/{{ publi.pmid }}">Citations</a>]
+<li>{{ publi.title }}
+  {{ publi.authors }}
+  {{ publi.display }} [<a href="{{ publi.url }}">Link</a>]
 </li>
 {% endfor %}
 </ul>
