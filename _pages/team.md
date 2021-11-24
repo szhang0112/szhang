@@ -6,8 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-# People
-
 ## Graduate Student
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
