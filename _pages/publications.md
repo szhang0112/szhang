@@ -15,7 +15,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=cnFBCDEAAAAJ
 {% for publi in site.data.preprint %}
 <li>{{ publi.title }}<br>
   {{ publi.authors }}<br>
-  {{ publi.display }} [<a href="{{ publi.url }}">Link</a>]
+  {{ publi.display }}
 </li>
 {% endfor %}
 </ul>
@@ -25,7 +25,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=cnFBCDEAAAAJ
 {% for publi in site.data.publist %}
 <li>{{ publi.title }}<br>
   {{ publi.authors }}<br>
-  {{ publi.display }} [<a href="{{ publi.url }}">Link</a>]
+  {{ publi.display }}
 </li>
 {% endfor %}
 </ul>
