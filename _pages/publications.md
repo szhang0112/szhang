@@ -12,7 +12,7 @@ permalink: /publications/
 
 (See also [Google Scholar](https://scholar.google.com/citations?user=cnFBCDEAAAAJ); <sup>&#9733;</sup> for equal contribution)
 
-## Manuscripts <sup>&#38;</sup> Preprints
+## Manuscripts &#38; Preprints
 <ul>
 {% for publi in site.data.preprint %}
 <li>{{ publi.title }}<br>
