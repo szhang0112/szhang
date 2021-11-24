@@ -41,3 +41,35 @@
 - title: <b>Decoding the genomics of abdominal aortic aneurysm</b>
   authors: Jingjing Li*, Cuiping Pan*, <b>Sai Zhang</b>*, Joshua M. Spin, Alicia Deng, Lawrence L.K. Leung, Ronald L. Dalman, Philip S. Tsao, Michael P. Snyder
   display: <i>Cell</i>, 174(6):1361-1372, 2018 [<a href="https://doi.org/10.1016/j.cell.2018.07.021">Link</a>]
+
+- title: <b>Reconstructing spatial organizations of chromosomes through manifold learning</b>
+  authors: Guangxiang Zhu, Wenxuan Deng, Hailin Hu, Rui Ma, <b>Sai Zhang</b>, Jinglin Yang, Jian Peng, Tommy Kaplan, Jianyang Zeng
+  display: <i>Nucleic Acids Research</i>, 46(8):e50, 2018 [<a href="https://doi.org/10.1093/nar/gky065">Link</a>]
+
+- title: <b>Analysis of ribosome stalling and translation elongation dynamics by deep learning</b>
+  authors: <b>Sai Zhang</b>, Hailin Hu, Jingtian Zhou, Xuan He, Tao Jiang, Jianyang Zeng
+  display: <i>Cell Systems</i>, 5(3):212-220, 2017 [<a href="https://doi.org/10.1016/j.cels.2017.08.004">Link</a>]; RECOMB 2017
+
+- title: <b>TITER: Predicting translation initiation sites by deep learning</b>
+  authors: <b>Sai Zhang</b>, Hailin Hu, Tao Jiang, Lei Zhang, Jianyang Zeng
+  display: <i>Bioinformatics</i>, 33(14):i234-i242, 2017 [<a href="https://doi.org/10.1093/bioinformatics/btx247">Link</a>]; ISMB/ECCB 2017
+
+- title: <b>Elastic restricted Boltzmann machines for cancer data analysis</b>
+  authors: <b>Sai Zhang</b>, Muxuan Liang, Zhongjun Zhou, Chen Zhang, Ning Chen, Ting Chen, Jianyang Zeng
+  display: <i>Quantitative Biology</i>, 5(2):159-172, 2017 [Cover Article] [<a href="https://doi.org/10.1007/s40484-017-0092-7">Link</a>]
+
+- title: <b>A deep boosting based approach for capturing the sequence binding preferences of RNA-binding proteins from high-throughput CLIP-seq data</b>
+  authors: Shuya Li, Fanghong Dong, Yuexin Wu, <b>Sai Zhang</b>, Chen Zhang, Xiao Liu, Tao Jiang, Jianyang Zeng
+  display: <i>Nucleic Acids Research</i>, 45(14):e129, 2017 [<a href="https://doi.org/10.1093/nar/gkx492">Link</a>]
+
+- title: <b>A deep learning framework for modeling structural features of RNA-binding protein targets</b>
+  authors: <b>Sai Zhang</b>, Jingtian Zhou, Hailin Hu, Haipeng Gong, Ligong Chen, Chao Cheng, Jianyang Zeng
+  display: <i>Nucleic Acids Research</i>, 44(4):e32, 2016 [<a href="https://doi.org/10.1093/nar/gkv1025">Link</a>]
+
+- title: <b>Constructing structure ensembles of intrinsically disordered proteins from chemical shift data</b>
+  authors: Huichao Gong, <b>Sai Zhang</b>, Jiangdian Wang, Haipeng Gong, Jianyang Zeng
+  display: <i>Journal of Computational Biology</i>, 23(5):300-310, 2016 [<a href="https://doi.org/10.1089/cmb.2015.0184">Link</a>]; RECOMB 2015
+
+- title: <b>Measurement and analysis of online social networks</b>
+  authors: Ke Xu, <b>Sai Zhang</b>, Hao Chen, Haitao Li
+  display: <i>Chinese Journal of Computers</i>, 37(1):165-188, 2014 [<a href="http://cjc.ict.ac.cn/bfpub/02803.pdf">Link</a>]
