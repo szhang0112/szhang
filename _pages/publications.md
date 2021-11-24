@@ -1,7 +1,7 @@
 ---
-title: "Sai Zhang - Papers"
+title: "Sai Zhang - Publications"
 layout: gridlay
-excerpt: "Papers"
+excerpt: "Publications"
 sitemap: false
 permalink: /publications/
 ---
