@@ -8,9 +8,7 @@ permalink: /publications/
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-# Papers
-
-(See also [Google Scholar](https://scholar.google.com/citations?user=cnFBCDEAAAAJ); <sup>&#9733;</sup> for equal contribution)
+See also [Google Scholar](https://scholar.google.com/citations?user=cnFBCDEAAAAJ); <sup>&#9733;</sup> for equal contribution.
 
 ## Manuscripts &#38; Preprints
 <ul>
