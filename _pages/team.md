@@ -20,7 +20,6 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   {{ member.info }} <br>Email: <{{ member.email }}>
   
-
   {% if member.number_educ == 1 %}
   {{ member.education1 }}
   {% endif %}
@@ -51,7 +50,6 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
