@@ -20,7 +20,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=cnFBCDEAAAAJ
 {% endfor %}
 </ul>
 
-## Peer-reviewed Papers
+## Peer-reviewed Publications
 <ul>
 {% for publi in site.data.publist %}
 <li>{{ publi.title }}<br>
