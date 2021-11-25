@@ -11,9 +11,7 @@ permalink: /teaching/
 ## Teaching Assistant
 <ul>
 {% for ta in site.data.ta %}
-<li>{{ ta.course }},
-  {{ ta.univ }},
-  {{ ta.time }}
+<li>{{ ta.course }} ({{ ta.univ }}, {{ ta.time }})
 </li>
 {% endfor %}
 </ul>
