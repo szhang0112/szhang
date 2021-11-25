@@ -9,13 +9,13 @@ permalink: /
 <div class="col-sm-12 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/szhang.png" class="img-responsive" width="30%" style="float: left" />
 <ul>
-Instructor
+Instructor<br>
 Department of Genetics<br>
 Stanford University School of Medicine<br>
-
-Office&#58; 3165 Porter Drive, Room 2270<br>
-Phone&#58; (650) 313-9961<br>
-Email&#58; zhangsai at stanford dot edu<br>
+<br>
+<b>Office</b>&#58; Porter Drive 2270<br>
+<b>Phone</b>&#58; (650) 313-9961<br>
+<b>Email</b>&#58; zhangsai at stanford dot edu<br>
 </ul>
 </div>
 
