@@ -1,6 +1,6 @@
 ---
 title: "Sai Zhang - Teaching"
-layout: textlay
+layout: gridlay
 excerpt: "Teaching"
 sitemap: false
 permalink: /teaching/
