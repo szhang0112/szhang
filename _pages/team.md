@@ -65,7 +65,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former People
+## Former Members
 <ul>
 <li> Saahil Jain (MS student w/ Michael Snyder, Stanford CS, Sept. 2020 - Feb. 2021) </li>
 </ul>
