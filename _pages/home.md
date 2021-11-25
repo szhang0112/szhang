@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/szhang.png" class="img-responsive" width="30%" style="vertical-align:middle;margin:1px 5px" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/szhang.png" class="img-responsive" width="30%" style="vertical-align:left;margin:1px 5px" />
 <ul>
 Instructor
 Department of Genetics<br>
