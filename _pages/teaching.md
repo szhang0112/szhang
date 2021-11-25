@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - AOA"
+title: "Sai Zhang - Teaching"
 layout: textlay
-excerpt: "AOA"
+excerpt: "Teaching"
 sitemap: false
-permalink: /aoa.html
+permalink: /teaching.html
 ---
 
 # Calendar
