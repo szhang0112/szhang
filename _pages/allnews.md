@@ -9,8 +9,8 @@ permalink: /allnews.html
 # News
 
 {% for article in site.data.news %}
-<ul>
 <p>{{ article.date }} <br>
+<ul>
 <em>{{ article.headline | markdownify}}</em></p>
 </ul>
 {% endfor %}
