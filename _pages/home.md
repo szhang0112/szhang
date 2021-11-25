@@ -5,7 +5,8 @@ excerpt: "Home"
 sitemap: false
 permalink: /
 ---
-<div class="row">
+
+<div class="col-sm-12 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/szhang.png" class="img-responsive" width="30%" style="float: left" />
 <ul>
 Instructor
