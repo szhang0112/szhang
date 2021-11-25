@@ -7,6 +7,13 @@ permalink: /
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/szhang.png" class="img-responsive" width="30%" style="float: left" />
+Instructor
+Department of Genetics
+Stanford University School of Medicine
+
+Office: 3165 Porter Drive, Room 2270
+Phone: (650) 313-9961
+Email: zhangsai at stanford dot edu
 
 We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
 
