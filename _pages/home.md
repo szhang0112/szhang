@@ -8,7 +8,7 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/szhang.png" class="img-responsive" width="30%" style="vertical-align:middle;margin:1px 5px" />
 <ul>
-<li>Instructor</li>
+Instructor
 Department of Genetics<br>
 Stanford University School of Medicine<br>
 
