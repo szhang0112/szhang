@@ -20,7 +20,7 @@ Stanford University School of Medicine<br>
 </ul>
 </div>
 
-Hi! I am an [Instructor](https://profiles.stanford.edu/sai-zhang) in the [Department of Genetics](https://med.stanford.edu/genetics.html) at [Stanford University School of Medicine](https://med.stanford.edu/). I received the postdoctoral training in Dr. [Michael Snyder](https://med.stanford.edu/snyderlab.html)'s group at Stanford Genetics. Prior to that, I got a Ph.D. in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Dr. [Jianyang Zeng](https://iiis.tsinghua.edu.cn/zengjy/).
+Hi! I am an [Instructor](https://profiles.stanford.edu/sai-zhang) in the [Department of Genetics](https://med.stanford.edu/genetics.html) at [Stanford University School of Medicine](https://med.stanford.edu/). I received my postdoctoral training in Dr. [Michael Snyder](https://med.stanford.edu/snyderlab.html)'s group at Stanford Genetics. Prior to that, I got a Ph.D. in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Dr. [Jianyang Zeng](https://iiis.tsinghua.edu.cn/zengjy/).
 
 
 We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
