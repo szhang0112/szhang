@@ -60,6 +60,10 @@ permalink: /team/
 
 {% endfor %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 ## Former People
 <div class="col-sm-12 clearfix">
