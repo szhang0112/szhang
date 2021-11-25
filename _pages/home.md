@@ -11,8 +11,6 @@ permalink: /
 <ul>
   <br>
   <br>
-  <br>
-  <br>
 <b>Instructor</b><br>
 Department of Genetics<br>
 Stanford University School of Medicine<br>
