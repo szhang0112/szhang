@@ -7,9 +7,9 @@ permalink: /
 ---
 
 <div class="col-sm-12 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/szhang.png" class="img-responsive" width="30%" style="float: middle" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/szhang.png" class="img-responsive" width="30%" style="float: left" />
 <ul>
-Instructor<br>
+<li>Instructor</li>
 Department of Genetics<br>
 Stanford University School of Medicine<br>
 
