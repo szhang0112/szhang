@@ -17,7 +17,7 @@ Stanford University School of Medicine<br>
 <b>Office</b>&#58; Porter Drive 2270<br>
 <b>Phone</b>&#58; (650) 313-9961<br>
 <b>Email</b>&#58; zhangsai at stanford dot edu<br>
-[<a href="https://twitter.com/saizhang0">Twitter</a>]
+[<a href="https://twitter.com/saizhang0">CV</a>, <a href="https://twitter.com/saizhang0">Twitter</a>]
 </ul>
 </div>
 
