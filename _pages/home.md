@@ -21,6 +21,6 @@ Stanford University School of Medicine<br>
 </ul>
 </div>
 
-Hi! I am an [Instructor](https://profiles.stanford.edu/sai-zhang) in the [Department of Genetics](https://med.stanford.edu/genetics.html) at [Stanford University School of Medicine](https://med.stanford.edu/). I received my postdoctoral training in Dr. [Michael Snyder](https://med.stanford.edu/snyderlab.html)'s group at Stanford Genetics. Prior to that, I got a Ph.D. in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Dr. [Jianyang Zeng](https://iiis.tsinghua.edu.cn/zengjy/).
+Hi! I am an [Instructor](https://profiles.stanford.edu/sai-zhang) in the [Department of Genetics](https://med.stanford.edu/genetics.html) at [Stanford University School of Medicine](https://med.stanford.edu/). I received postdoctoral training in Dr. [Michael Snyder](https://med.stanford.edu/snyderlab.html)'s group at Stanford Genetics. Prior to that, I got a Ph.D. in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Dr. [Jianyang Zeng](https://iiis.tsinghua.edu.cn/zengjy/).
 
-My research
+My research lies at the interface of machine learning and 
