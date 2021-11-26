@@ -13,7 +13,7 @@ permalink: /
 Instructor<br>
 Department of Genetics<br>
 Stanford University School of Medicine<br>
-<br>
+
 <b>Office</b>&#58; Porter Drive 2270<br>
 <b>Phone</b>&#58; (650) 313-9961<br>
 <b>Email</b>&#58; zhangsai at stanford dot edu<br>
