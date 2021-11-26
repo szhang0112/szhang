@@ -9,7 +9,7 @@ permalink: /
 <div class="col-sm-12 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/szhang.png" class="img-responsive" width="30%" style="float: left" />
 <ul>
-<h4>Sai Zhang</h4><br>
+<h4><b>Sai Zhang</b></h4>
 Instructor<br>
 Department of Genetics<br>
 Stanford University School of Medicine<br>
