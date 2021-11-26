@@ -17,9 +17,10 @@ Stanford University School of Medicine<br>
 <b>Office</b>&#58; Porter Drive 2270<br>
 <b>Phone</b>&#58; (650) 313-9961<br>
 <b>Email</b>&#58; zhangsai at stanford dot edu<br>
-[[<a href="https://twitter.com/saizhang0">Twitter</a>]]
+[<a href="https://twitter.com/saizhang0">Twitter</a>]
 </ul>
 </div>
 
 Hi! I am an [Instructor](https://profiles.stanford.edu/sai-zhang) in the [Department of Genetics](https://med.stanford.edu/genetics.html) at [Stanford University School of Medicine](https://med.stanford.edu/). I received my postdoctoral training in Dr. [Michael Snyder](https://med.stanford.edu/snyderlab.html)'s group at Stanford Genetics. Prior to that, I got a Ph.D. in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Dr. [Jianyang Zeng](https://iiis.tsinghua.edu.cn/zengjy/).
 
+My research
