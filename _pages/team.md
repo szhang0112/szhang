@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-## Graduate Students
+### Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -67,7 +67,7 @@ permalink: /team/
 {% endif %}
 
 
-## Former Members
+### Former Members
 <ul>
 <li> Saahil Jain (MS student w/ Michael Snyder, Stanford CS, 09/2020 - 02/2021) </li>
 </ul>
