@@ -69,5 +69,6 @@ permalink: /team/
 
 ### Former Members
 <ul>
-<li> Saahil Jain (MS student w/ Michael Snyder, Stanford CS, 09/2020 - 02/2021) </li>
+  <li> Saahil Jain (MS student w/ Michael Snyder, Stanford CS, 09/2020 - 02/2021) </li>
+  <li> Xuanyi Wang (<a href="https://med.stanford.edu/genecamp.html">GRIPS</a> intern, 06/2019 - 09/2019. Now an undergraduate at UC Berkeley EECS) </li>
 </ul>
