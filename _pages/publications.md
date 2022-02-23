@@ -30,7 +30,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=cnFBCDEAAAAJ
 {% endfor %}
 </ul>
 
-### Patents
+## Patents
 <ul>
 {% for publi in site.data.patent %}
 <li>{{ publi.title }}<br>
