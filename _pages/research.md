@@ -45,5 +45,5 @@ Deep phenotyping of individuals such as electronic health records and imaging en
 
 <ul>
   <li> Li*, Pan*, Zhang* et al. Decoding the genomics of abdominal aortic aneurysm. <a href="https://doi.org/10.1016/j.cell.2018.07.021"><em>Cell</em></a>, 174(6):1361-1372, 2018 </li>
-  <li> Li, Li, Zhang et al. Gene-environment interaction in the era of precision medicine. <a href="https://doi.org/10.1016/j.cell.2019.03.004"><em>Cell</em></a>, 177(1):38-44, 2019 </li>
+  <li> Li, Li, Zhang, and Snyder. Gene-environment interaction in the era of precision medicine. <a href="https://doi.org/10.1016/j.cell.2019.03.004"><em>Cell</em></a>, 177(1):38-44, 2019 </li>
 </ul>
