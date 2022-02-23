@@ -1,8 +1,8 @@
 ---
 title: "Sai Zhang - Research"
 layout: textlay
-excerpt: "Sai Zhang -- Research"
-sitemap: true
+excerpt: "Research"
+sitemap: false
 permalink: /research/
 ---
 
