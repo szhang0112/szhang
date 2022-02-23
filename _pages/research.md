@@ -39,7 +39,8 @@ Multiple large-scale biobanks (e.g., UK Biobank, Genomics England, and Million V
   <li> Zhang et al. Common and rare variant analyses combined with single-cell multiomics reveal cell-type-specific molecular mechanisms of COVID-19 severity. <a href="https://pubmed.ncbi.nlm.nih.gov/34189540/"><em>medRxiv</em></a>, 2021 </li>
 </ul>
 
-#### 4. 
+#### 4. Multimodal modeling of biomedical data
+
 
 
 <ul>
