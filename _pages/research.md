@@ -41,7 +41,7 @@ Multiple large-scale biobanks (e.g., UK Biobank, Genomics England, and Million V
 
 #### 4. Multimodal integration of genomic and clinical data
 
-Deep phenotyping of individuals such as electronic health records and imaging enables better disease subtyping, increased power of biological discovery, and augmented clinical prediction. We are working on deep learning methods to learn representations for various clinical data using cutting-edge techniques developed in computer vision and natural language processing. Clinical representations are fused with genomic modeling to reveal the molecular basis of complex phenotypes and further to boost clinical prediction, paving the way towards personalized medicine.
+Deep phenotyping of individuals such as electronic health records and imaging enables better disease subtyping, increased power of biological discovery, and augmented clinical prediction. We are working on deep learning methods to learn representations for various clinical data using cutting-edge techniques developed in computer vision and natural language processing. Clinical representations are fused with genomic modeling to reveal the molecular basis of complex phenotypes and further to boost clinical predictions, paving the way towards personalized medicine.
 
 <ul>
   <li> Li*, Pan*, Zhang* et al. Decoding the genomics of abdominal aortic aneurysm. <a href="https://doi.org/10.1016/j.cell.2018.07.021"><em>Cell</em></a>, 174(6):1361-1372, 2018 </li>
