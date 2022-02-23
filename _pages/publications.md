@@ -10,7 +10,7 @@ permalink: /publications/
 
 See also [Google Scholar](https://scholar.google.com/citations?user=cnFBCDEAAAAJ); * for equal contribution.
 
-### Manuscripts &#38; Preprints
+## Manuscripts &#38; Preprints
 <ul>
 {% for publi in site.data.preprint %}
 <li>{{ publi.title }}<br>
@@ -20,7 +20,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=cnFBCDEAAAAJ
 {% endfor %}
 </ul>
 
-### Peer-Reviewed Papers
+## Peer-Reviewed Papers
 <ul>
 {% for publi in site.data.publist %}
 <li>{{ publi.title }}<br>
