@@ -4,3 +4,18 @@
   email: oreno@stanford.edu
   number_educ: 1
   education1: Bio&#58; My name is Omar, and I am from Alaska. I am originally from Ivory Coast, but I immigrated to Alaska when I was 13. I did my high school and undergraduate in Alaska. I got involved in research during my sophomore year of undergraduate. I loved the research process and from then on, I kept getting involved in multiple research opportunities in Alaska and Illinois. After getting my baccalaureate, I did a postbaccalaureate program at the University of Illinois Chicago before coming to Stanford for my Ph.D. 
+
+- name: Han Li
+  photo: han.jpeg
+  info: Visiting PhD Student (remote), Tsinghua IIIS
+  email: oreno@stanford.edu
+  number_educ: 1
+  education1: Bio&#58; My name is Han Li. I received my bachelor's degree from Jilin University. I am currently pursuing a PhD in Computer Science at the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University. My general research lies in the development of deep learning approaches to model graph-structured data in biology.
+  
+- name: Enming Yuan
+  photo: enming.png
+  info: Visiting PhD Student (remote), Tsinghua IIIS
+  email: oreno@stanford.edu
+  number_educ: 1
+  education1: Bio&#58; I am a PhD student at the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University. I received my bachelor's degree from Shanghai Jiao Tong University (SJTU). My research interest invovles developing effective and interpretable machine learning models to learn and infer complex structures in genomics.
+  
