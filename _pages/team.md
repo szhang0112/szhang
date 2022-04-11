@@ -69,6 +69,7 @@ permalink: /team/
 
 ### Former Members
 <ul>
+  <li> Omar Nour Niagne (Rotation PhD student w/ Michael Snyder, Stanford Genetics, 07/2021 - 03/2022) </li>
   <li> Saahil Jain (MS student w/ Michael Snyder, Stanford CS, 09/2020 - 02/2021. Now an engineer at You.com) </li>
   <li> Xuanyi Wang (<a href="https://med.stanford.edu/genecamp.html">GRIPS</a> intern, 06/2019 - 09/2019. Now an undergraduate at UC Berkeley EECS) </li>
 </ul>
