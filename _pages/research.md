@@ -27,7 +27,7 @@ Summary statistics derived from genetic studies, including genome-wide associati
 
 <ul>
   <li> Zhang et al. Genome-wide identification of the genetic basis of amyotrophic lateral sclerosis. <a href="https://doi.org/10.1016/j.neuron.2021.12.019"><em>Neuron</em></a>, 110:1-17, 2022 </li>
-  <li> Zhang et al. Multiomic analysis reveals cell-type-specific molecular determinants of COVID-19 severity. <em>Under submission</em> </li>
+  <li> Zhang et al. Multiomic analysis reveals cell-type-specific molecular determinants of COVID-19 severity. <a href="https://doi.org/10.1016/j.cels.2022.05.007"><em>Cell Systems</em></a>, 13:1-17, 2022 </li>
 </ul>
 
 #### 3. Disease-associated phenotype prediction
