@@ -69,6 +69,11 @@ permalink: /team/
 
 ### Former Members
 <ul>
+  <li> Jessica Kain (PhD student w/ Michael Snyder, Stanford Genetics, 03/2022 - 01/2023) </li>
+  <li> Hantao Shu (Visiting PhD student, Tsinghua IIIS, 03/2022 - 01/2023) </li>
+  <li> Han Li (Visiting PhD student, Tsinghua IIIS, 02/2022 - 09/2022) </li>
+  <li> Enming Yuan (Visiting PhD student, Tsinghua IIIS, 02/2022 - 09/2022) </li>
+  <li> Jia Parikh (Summer intern, Harker School, 06/2022 - 08/2022) </li>
   <li> Omar Nour Niagne (Rotation PhD student w/ Michael Snyder, Stanford Genetics, 07/2021 - 03/2022) </li>
   <li> Saahil Jain (MS student w/ Michael Snyder, Stanford CS, 09/2020 - 02/2021. Now an engineer at You.com) </li>
   <li> Xuanyi Wang (<a href="https://med.stanford.edu/genecamp.html">GRIPS</a> intern, 06/2019 - 09/2019. Now an undergraduate at UC Berkeley EECS) </li>
