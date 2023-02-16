@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Zhang Laboratory at UFL."
+excerpt: "Zhang Laboratory at UF."
 sitemap: false
 permalink: /allnews.html
 ---
