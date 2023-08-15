@@ -26,9 +26,9 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <p>{{ member.education1 }}</p>
-  <p>{{ member.education2 }}</p>
-  <p>Interests: {{ interest }}</p>p
+  <li>{{ member.education1 }}</li>
+  <li>{{ member.education2 }}</li>
+  <li>{{ interest }}</li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
