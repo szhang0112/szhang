@@ -6,7 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-### We are recuiting postdocs and graduate students. Job ad coming soon!
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
