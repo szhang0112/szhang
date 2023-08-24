@@ -1,8 +1,13 @@
 - name: Menghui Liu
   photo: menghui.jpg
-  info: PhD student (2023 - present)
+  info: PhD student @UF Epidemiology (2023 - present)
   email: menghui.liu@ufl.edu
   number_educ: 2
   education1: MB in Basic Medical Sciences, Fudan University (2021)
   education2: MS in Genomics & Bioinformatics, The Chinese University of Hong Kong (2023)
   interest: Single-cell genetics
+
+- name: Tuan Truong
+  photo: tuan.jpeg
+  info: Undergraduate student @UF Computer Science (2023 - present)
+  email: tuantruong@ufl.edu
