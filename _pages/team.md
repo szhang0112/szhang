@@ -21,7 +21,11 @@ permalink: /team/
   <h4><b>{{ member.name }}</b></h4>
   {{ member.info }}
   <ul style="overflow: hidden">
-  
+    
+  {% if member.number_educ == 0 %}
+   <li>Interests: {{ member.interest }}</li>
+  {% endif %}
+    
   {% if member.number_educ == 1 %}
    <li> {{ member.education1 }}  </li>
   {% endif %}
