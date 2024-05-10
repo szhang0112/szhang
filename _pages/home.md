@@ -12,6 +12,7 @@ permalink: /
 <h4><b>Sai Zhang, Ph.D.</b></h4>
 Assistant Professor<br>
 Department of Epidemiology<br>
+Department of Biostatistics (affiliate)<br>
 Department of Biomedical Engineering (affiliate)<br>
 University of Florida<br>
 <br>
